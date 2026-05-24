@@ -27,6 +27,8 @@ A wearable, gesture-controlled mouse built with an ESP32-C3 Super Mini and an MP
 | Left Click     | `GPIO 2`       | Wire button diagonally to GND |
 | Right Click    | `GPIO 3`       | Wire button diagonally to GND |
 | Smart Button   | `GPIO 4`       | Wire button diagonally to GND |
+
+
 *(Note: Internal pull-up resistors are used; no external resistors are needed.)*
 
 ## Software Setup Instructions

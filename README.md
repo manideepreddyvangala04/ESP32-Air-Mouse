@@ -14,7 +14,7 @@ A wearable, gesture-controlled mouse built with an ESP32-C3 Super Mini and an MP
 * Sensor: MPU6050 (Gyroscope/Accelerometer)
 * Inputs: 3x Tactile Push Buttons
 * Power: 3.7V LiPo Battery or USB-C power source
-
+    
 ## Wiring Schematic
 *Note: The ESP32-C3 uses 3.3V logic. Do not connect the MPU6050 to a 5V source.*
 
